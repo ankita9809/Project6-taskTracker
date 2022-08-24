@@ -1,4 +1,3 @@
-//import PropTypes from 'prop-types'
 import { useState , useEffect} from 'react'
 import {BrowserRouter as Router, Route} from 'react'
 import Header from './components/Header'
