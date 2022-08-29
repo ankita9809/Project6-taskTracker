@@ -1,5 +1,4 @@
 # Project6-taskTracker
-# Project6-taskTracker
  
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
  
