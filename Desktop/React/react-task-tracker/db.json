@@ -1,20 +1,20 @@
 {
   "tasks": [
     {
-      "id": 1,
-      "text": "Doctors Appointment",
-      "day": "Feb 5th at 2:30pm",
-      "reminder": true
+      "text": "Project revision",
+      "day": "Wednesday",
+      "reminder": true,
+      "id": 1
     },
     {
-      "id": 3,
-      "text": "Food Shopping",
-      "day": "Feb 7th at 2:30pm",
-      "reminder": false
+      "text": "shopping",
+      "day": "Saturday",
+      "reminder": true,
+      "id": 3
     },
     {
-      "text": "Meeting",
-      "day": "Aug 31, 2022 & 12:00",
+      "text": "Birthday Celebration",
+      "day": "Sunday",
       "reminder": true,
       "id": 4
     }
